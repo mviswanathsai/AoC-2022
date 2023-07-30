@@ -1,0 +1,17 @@
+A X
+B X
+C X
+C Y
+B Y
+C Z
+C X
+C Y
+C Y
+B Y
+B Y
+C Z
+C Y
+A Y
+B Z
+B Z
+C Y
